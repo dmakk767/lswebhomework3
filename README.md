@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Dustin McDaniel
 
-I like to:
+I like to: Code, play poker, and collect money
 
-I'm learning:
+I'm learning: How to use Git to modify repositories from Github.
 
 ```
 
